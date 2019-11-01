@@ -43,6 +43,7 @@ a{
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+  overflow: hidden;
 }
 .top-container{
   background-color: #E4F9F5;

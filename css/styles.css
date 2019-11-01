@@ -104,6 +104,7 @@ a{
   width:40%;
   float:left;
   margin-right: 30px;
+  box-sizing: border-box;
 }
 .yoyo-img{
   width:20%;
@@ -190,4 +191,5 @@ hr {
   margin:100px auto 120px auto;
   text-align: left;
   line-height: 2;
+  overflow: hidden;
 }
